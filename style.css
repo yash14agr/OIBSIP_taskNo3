@@ -1,0 +1,43 @@
+#body {
+    background-color: black;
+}
+#keepid{
+    color: white;
+}
+
+.navbarHead {
+    background-color: black;
+    border: 1px solid rgb(166, 166, 232);
+}
+
+#searchbtn {
+    color: black;
+    border: 1px solid white;
+    color: white;
+}
+
+#NotesCardHead {
+    background-color:black; 
+    border:1px solid rgb(166, 166, 232);
+    box-shadow:1px 1px 10px rgb(166, 166, 232);
+}
+
+#addtitle{
+    background-color: black;
+     border:1px solid rgb(166, 166, 232); 
+     margin-bottom:.5rem ; 
+     color: white;
+}
+
+#addtxt{
+    border:1px solid rgb(166, 166, 232);
+     margin-bottom:.5rem ;
+     background-color:#000000 ;
+     color: white; 
+}
+
+#addbtn{
+    background-color: #000000b6;
+    border:1px solid rgb(166, 166, 232);
+    color:rgb(54, 202, 21);
+}
